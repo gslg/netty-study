@@ -1,0 +1,6 @@
+#idea目录
+.idea/
+#java编译目录
+target/
+
+*.iml
